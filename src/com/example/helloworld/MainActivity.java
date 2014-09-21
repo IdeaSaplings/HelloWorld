@@ -2,8 +2,8 @@ package com.example.helloworld;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+// Removed unwanted headers
+// Added v7 library
 
 public class MainActivity extends ActionBarActivity {
 	
