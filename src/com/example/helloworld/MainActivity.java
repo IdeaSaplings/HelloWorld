@@ -13,5 +13,5 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 	}
 
-	//Removing unused code
+	//Remove unused code
 }
