@@ -14,4 +14,5 @@ public class MainActivity extends ActionBarActivity {
 	}
 
 	//Remove unused code
+	//New Comment after resolving conflicts
 }
